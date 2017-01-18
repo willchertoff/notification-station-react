@@ -1,0 +1,36 @@
+{
+  "name": "notification-station-react",
+  "version": "1.0.0",
+  "description": "App style notifications for react sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willchertoff/notification-station-react.git"
+  },
+  "keywords": [
+    "react",
+    "notifications"
+  ],
+  "author": "Will Chertoff <willchertoff@gmail.com> (http://willchertoff.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willchertoff/notification-station-react/issues"
+  },
+  "homepage": "https://github.com/willchertoff/notification-station-react#readme",
+  "devDependencies": {
+    "babel-eslint": "7.1.1",
+    "eslint": "3.13.1",
+    "eslint-config-airbnb": "14.0.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "3.0.2",
+    "eslint-plugin-react": "6.9.0"
+  },
+  "dependencies": {
+    "classnames": "2.2.5",
+    "react": "15.4.2"
+  }
+}
